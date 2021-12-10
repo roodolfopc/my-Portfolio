@@ -1,0 +1,27 @@
+$black-normal: #050607;
+$black-dark: #141516;
+$black-light: #242526;
+
+$white-normal: #f5f7f7;
+$white-dark: #eef0f0;
+$white-light: #e6e8e8;
+
+$blue-normal: #2dc7ed;
+$blue-dark: #3acdf1;
+$blue-light: #26b7db;
+
+$gray-normal: #686868;
+$gray-dark: #363636;
+$gray-light: #7a7b7c;
+
+.color-number-selected {
+  color: $gray-light;
+}
+
+.color-project-selected {
+  color: $gray-dark;
+}
+
+.color-title-selected {
+  color: $gray-normal;
+}
